@@ -1,6 +1,7 @@
 # love-calculator-in-c-programming
 hello this is a love calculator in c programming language u can use it is very help full download now
-<h1>OR copy here</h1>
+<h1>this is a Full Code</h1>
+<h3>copyit or download it</h3>
 .
 #include<stdio.h>
 #include<conio.h>
