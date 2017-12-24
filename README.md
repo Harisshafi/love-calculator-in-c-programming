@@ -1,7 +1,6 @@
 # love-calculator-in-c-programming
 hello this is a love calculator in c programming language u can use it is very help full download now
-<h1>OR</h1>
-copy here
+<h1>OR copy here</h1>
 .
 #include<stdio.h>
 #include<conio.h>
